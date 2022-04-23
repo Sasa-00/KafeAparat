@@ -4,7 +4,7 @@ import time
 run = True
 
 
-# Funkcija "racunanje" se pokrece nakon unosa zeljene kafe, i novca, pa se te informacija uzimaju kao parametri
+# Funkcija "racunanje" se pokrece nakon unosa zeljene kafe, i novca, pa se te informacije uzimaju kao parametri
 def racunanje(deset, dvadeset, pedeset, sto, dvesta, vrsta_kafe):
     deset = deset * 10
     dvadeset = dvadeset * 20
